@@ -4,7 +4,7 @@ Display IMDb rating from context menu and on rotten tomatoes. Follow the blog [h
 
 ### HOW TO INSTALL : 
 
-1. Clone this repo by `git@github.com:arbazsiddiqui/IMDB-Lookup-Extension.git && cd IMDB-Lookup-Extension`
+1. Clone this repo by `git clone git@github.com:arbazsiddiqui/IMDB-Lookup-Extension.git && cd IMDB-Lookup-Extension`
 2. Go to `chrome://extensions/` and toggle the `Developer mode` mode on.
 3. Click on `Load unpacked` and browse to the directory containing the extension.
 
